@@ -1,0 +1,35 @@
+{
+  "ensemble_type": "stacking",
+  "meta_model_type": "ridge",
+  "n_folds": 5,
+  "weights": {
+    "CatBoost": 0.27831739136466427,
+    "LightGBM": 0.2673090650543365,
+    "RandomForest": 0.22500016092144398,
+    "MLP": 0.22937338265955526
+  },
+  "confidence_scores": {
+    "CatBoost": 1.0,
+    "LightGBM": 1.0,
+    "RandomForest": 1.0,
+    "MLP": 1.0,
+    "MetaModel": 1.0
+  },
+  "performance_history": {
+    "CatBoost": [
+      1.8682871452107002
+    ],
+    "LightGBM": [
+      1.936695220848659
+    ],
+    "RandomForest": [
+      2.199611728998196
+    ],
+    "MLP": [
+      2.172435601128366
+    ],
+    "MetaModel": [
+      1.861398482765644
+    ]
+  }
+}

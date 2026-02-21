@@ -1,0 +1,7 @@
+index,value,adwin_detected,ph_detected,drift_type
+0,68.61735698828815,False,True,sudden
+1,80.03532897892023,False,True,sudden
+2,81.35565640180599,False,True,gradual
+3,91.89802933217672,False,True,recurring
+4,71.49273326285676,False,True,recurring
+5,73.82158991037527,False,True,recurring
